@@ -1,3 +1,3 @@
 #This is a temporary file
 
-#for a class demonstration
+#to illustrate a point
